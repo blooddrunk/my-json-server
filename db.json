@@ -120,5 +120,156 @@
       "title": "ullam nobis libero sapiente ad optio sint",
       "completed": true
     }
-  ]
+  ],
+  products: [{
+    "id": 1,
+    "name": "Anticoagulant Citrate Phosphate Dextrose Adenine",
+    "price": 270.64,
+    "inventory": 10
+  }, {
+    "id": 2,
+    "name": "Triclosan",
+    "price": 461.82,
+    "inventory": 15
+  }, {
+    "id": 3,
+    "name": "BENZALKONIUM CHLORIDE",
+    "price": 145.61,
+    "inventory": 21
+  }, {
+    "id": 4,
+    "name": "Niacin",
+    "price": 484.81,
+    "inventory": 12
+  }, {
+    "id": 5,
+    "name": "valsartan",
+    "price": 342.87,
+    "inventory": 4
+  }, {
+    "id": 6,
+    "name": "Stemphylium sarciniforms",
+    "price": 159.87,
+    "inventory": 23
+  }, {
+    "id": 7,
+    "name": "sodium phosphate",
+    "price": 474.01,
+    "inventory": 47
+  }, {
+    "id": 8,
+    "name": "Hydralazine Hydrochloride",
+    "price": 349.87,
+    "inventory": 21
+  }, {
+    "id": 9,
+    "name": "Miconazorb AF Powder",
+    "price": 301.83,
+    "inventory": 26
+  }, {
+    "id": 10,
+    "name": "Mustard Seed",
+    "price": 483.55,
+    "inventory": 37
+  }, {
+    "id": 11,
+    "name": "DIOSMETIN",
+    "price": 163.35,
+    "inventory": 35
+  }, {
+    "id": 12,
+    "name": "OCTINOXATE",
+    "price": 298.25,
+    "inventory": 24
+  }, {
+    "id": 13,
+    "name": "Acetaminophen",
+    "price": 241.58,
+    "inventory": 7
+  }, {
+    "id": 14,
+    "name": "Dimethicone, Octinoxate, Octisalate, Oxybenzone",
+    "price": 403.13,
+    "inventory": 46
+  }, {
+    "id": 15,
+    "name": "CHLORPHENIRAMINE MALEATE",
+    "price": 285.21,
+    "inventory": 6
+  }, {
+    "id": 16,
+    "name": "Potassium Chloride",
+    "price": 268.31,
+    "inventory": 26
+  }, {
+    "id": 17,
+    "name": "Ropinirole Hydrochloride",
+    "price": 100.49,
+    "inventory": 24
+  }, {
+    "id": 18,
+    "name": "Gemcitabine Hydrochloride",
+    "price": 134.08,
+    "inventory": 44
+  }, {
+    "id": 19,
+    "name": "Treatment Set TS330359",
+    "price": 386.17,
+    "inventory": 34
+  }, {
+    "id": 20,
+    "name": "buprenorphine and naloxone",
+    "price": 426.15,
+    "inventory": 21
+  }, {
+    "id": 21,
+    "name": "Alprazolam",
+    "price": 243.45,
+    "inventory": 14
+  }, {
+    "id": 22,
+    "name": "Acetaminophen, Diphenhydramine hydrochloride, and Phenylephrine hydrochloride",
+    "price": 60.63,
+    "inventory": 50
+  }, {
+    "id": 23,
+    "name": "SODIUM SULFATE ANHYDROUS",
+    "price": 103.48,
+    "inventory": 14
+  }, {
+    "id": 24,
+    "name": "Lidocaine Hydrochloride and Epinephrine Bitartrate",
+    "price": 485.04,
+    "inventory": 48
+  }, {
+    "id": 25,
+    "name": "Tramadol Hydrochloride",
+    "price": 281.16,
+    "inventory": 38
+  }, {
+    "id": 26,
+    "name": "Sertraline Hydrochloride",
+    "price": 472.37,
+    "inventory": 46
+  }, {
+    "id": 27,
+    "name": "Zolmitriptan",
+    "price": 284.07,
+    "inventory": 47
+  }, {
+    "id": 28,
+    "name": "Arsenic Trioxide, Cadmium Sulfate, Oyster Shell Calcium Carbonate, Crude, Human Breast Tumor Cell, Conium Maculatum Flowering Top, Lycopodium Clavatum Spore, Gonorrheal Urethral Secretion Human, Phytolacca Americana Root, Scabies Lesion Lysate (Human), Sulfur, Treponemic Skin Canker Human, Thuja Occidentalis Leafy Twig",
+    "price": 270.05,
+    "inventory": 14
+  }, {
+    "id": 29,
+    "name": "isosorbide mononitrate",
+    "price": 422.29,
+    "inventory": 42
+  }, {
+    "id": 30,
+    "name": "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",
+    "price": 132.62,
+    "inventory": 38
+  }]
 }
