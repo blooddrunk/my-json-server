@@ -121,7 +121,7 @@
       "completed": true
     }
   ],
-  products: [{
+  "products": [{
     "id": 1,
     "name": "Anticoagulant Citrate Phosphate Dextrose Adenine",
     "price": 270.64,
